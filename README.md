@@ -2,7 +2,7 @@
 - 👀 I’m interested in People Analytics
 - 🌱 I’m currently learning R, Python
 - 💞️ I’m looking to collaborate on R and Python code as it applies to People Analytics
-- 📫 How to reach me jhgerdes01@gmail.com or james.gerdes@ge.com
+- 📫 How to reach me jhgerdes01@gmail.com
 
 <!---
 jhgerdes01/jhgerdes01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
